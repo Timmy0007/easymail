@@ -1,0 +1,164 @@
+body{
+    background-image: url(assets/background2.png);
+    display: flex;
+}
+
+.section1{
+    background: #006AFE;
+    width: 550px;
+    height: 861px;
+}
+
+.easy{
+    margin-left: 60px;
+    width: 168px;
+    height: 29px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+    color: #FFFFFF;
+}
+
+.create{
+    margin-top: 50px;
+    margin-left: 60px;
+    width: 392px;
+    height: 29px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+
+#name, #email, #Password{
+    margin-top: 30px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    border-color: #FFFFFF;
+    width: 380px;
+    height: 60px;
+    margin-left: 60px;
+}
+
+.createb{
+    margin-top: 20px;
+    background: #F8E406;
+    border-radius: 30px;
+    border: #FFFFFF;
+    width: 350px;
+    height: 60px;
+    margin-left: 70px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.18em;
+    color: rgba(0, 0, 0, 0.9);
+}
+
+.already{
+    width: 226px;
+    height: 29px;
+    margin-left: 170px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.by{
+    margin-left: 70px;
+    width: 387px;
+    height: 80px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.all{
+    position: relative;
+    z-index: 2;
+    width: 388px;
+    height: 105px;
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    letter-spacing: 0.015em;
+    color: #000000;
+}
+
+.allimg{
+    position: relative;
+    z-index: 1;
+    top: 110px;
+}
+
+.allin{
+    margin-top: 50px;
+    margin-left: 150px;
+}
+
+.section2a{
+    margin-top: 100px;
+    display: flex;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    color: #000000;
+}
+
+.section2b{
+    margin-top: 50px;
+    margin-left: 0px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    color: #000000;
+    display: flex;
+}
+
+.se2{
+    position: relative;
+    top: -30px;
+    left: 60px;
+    margin-left: 10px;
+}
+
+.unlimited{
+    margin-left: -80px;
+}
+
+.unl, .space, .al, .signu, .highly, .autfun{
+    width: 170.04px;
+    height: 59.48px;
+  margin-top: -40px;
+  margin-left: 130px;
+}
+
+.alp, .spacefor, .signup, .webinar, .funnel{
+    margin-left: -70px;
+}
+
+
+

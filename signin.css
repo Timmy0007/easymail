@@ -1,0 +1,106 @@
+.nav{
+    background: rgba(7, 183, 255, 0.28);
+    height: 100px;
+}
+
+.easy{
+    padding-top: 30px;
+    margin-left: 90px;
+    width: 168px;
+    height: 29px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+    color: #000000;
+}
+
+.section2{
+    margin-top: -20px;
+    height: 845px;
+    background-image: url(assets/background.png);
+}
+
+.section2a{
+    background: #FFFFFF;
+    border-radius: 10px;
+    width: 475px;
+    height: 554px;
+    position: relative;
+    top: 140px;
+    left: 90px;
+}
+
+.dont{
+    padding-top: 30px;
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+}
+
+.wel{
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    color: #000000;
+}
+
+.person{
+    margin-top: 30px;
+    margin-left: 220px;
+}
+
+#email, #password{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin-top: 60px;
+    margin-left: 40px;
+    width: 388px;
+    height: 20px;
+}
+
+.rem{
+    margin-left: 40px;
+}
+
+.login{
+    background: #07B7FF;
+    border-radius: 30px;
+    border-color: #07B7FF;
+    color: white;
+    margin-top: -35px;
+    margin-left: 380px;
+}
+
+.forgot{
+    margin-top: -5px;
+    margin-left: 360px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: -0.055em;
+    color: #07B7FF;
+}
+
+.copy{
+    width: 306px;
+    height: 19px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: -0.055em;
+    color: rgba(255, 255, 255, 0.8);
+}
