@@ -840,21 +840,124 @@ body{
      }
 
      .section2{
+        margin-left: 0px;
         display: block;
      }
 
+     .get, .lead{
+        margin-top: 90px;
+        width: 50px;
+        font-size: 29px;
+     }
+
+    .yellow{
+        top: 180px;
+        left: 40px;
+        width: 80px;
+        height: 30px;
+    }
+
+    .powerful{
+        margin-left: -50px;
+        font-size: 21px;
+        width: 230px;
+    }
+
+    #email{
+        margin-top: 99px;
+        display: block;
+        margin-left: -40px;
+        width: 200px;
+    }
+
+    .signup2{
+        margin-left: 0px;
+    }
+
+    .startforfree{
+        margin-left: -20px;
+    }
+
+    .start{
+        margin-left: 15px;
+    }
+
+    .nocredit{
+        margin-top: 40px;
+    }
+
+    .cancel{
+        margin-left: -350px;
+        margin-top: 70px;
+    }
+
+    .lady{
+        width: 350px;
+    }
+
+    hr1,.hr2{
+        display: none;
+    }
+
+    .message{
+        width: 230px;
+        margin-left: -320px;
+        margin-top: 490px;
+    }
+
+    .markaut{
+        width: 230px;
+        margin-left: -320px;
+    }
+
+    .smsmark{
+        width: 230px;
+        margin-left: -320px;
+        margin-bottom: -590px;
+    }
+
      .section2b{
-        width:245px;
-        margin-left: 00px;
+        margin-left: 200px;
      }
 
      .inbound, .persona{
-        margin-left: 100px;
-       width: 500px;
+        font-size: 21px;
+        margin-left: 00px;
+       width: 250px;
      }
 
      .section3a{
         display: block;
+     }
+
+     .section3bimg{
+        display: none;
+     }
+
+     .gets, .suite, .learn,.free{
+        margin-top: 70px;
+        width: 230px;
+        margin-left: -90px;
+        font-size: 23px;
+     }
+
+     #suiteb{
+        margin-left: -90px;
+     }
+
+     #engagew{
+        margin-left:-100px
+     }
+
+     #boosto, #learnm, #over{
+        margin-left: -20px;
+     }
+
+     #suited{
+        margin-left: -20px;
+     }
+     .yellow2a, .yellow2b, .yellow2c, .yellow2d{
+        display: none;
      }
 
      .section3b{
@@ -875,39 +978,483 @@ body{
 
      .section4b1{
         margin-top: 40px;
-        margin-left: 40px;
+        margin-left: -55px;
      }
 
      .section4b2{
         margin-top: 70px;
-        margin-left: 120px;
+        margin-left: 10px;
      }
 
      .section4b3{
         margin-top: 70px;
-        margin-left: 120px;
+        margin-left: -10px;
      }
 
      .section4b4{
         margin-top: 70px;
-        margin-left: 200px;
+        margin-left: 60px;
      }
 
      .more{
-        margin-left: 70px;
+         margin-top: 30px;
+        width: 290px;
+        margin-left: 20px;
      }
 
      .exp{
-        margin-left: 120px;
+        width: 190px;
+        margin-top: 30px;
+        margin-left: 0px;
      }
+
+     .explore{
+        margin-left: -20px;
+     }
+
+     .unb{
+        font-size: 25px;
+        width: 250px;
+     }
+
+     .unbyellow, .yellow2{
+        display: none;
+     }
+
+     .section5b{
+        margin-left: 20px;
+        display: block;
+     }
+
+     .plans{
+        margin-top: 20px;
+        margin-left: 10px;
+        width: 230px;
+     }
+
+     #exp2{
+        margin-left: 10px;
+     }
+
+     .section6{
+        display: none;
+     }
+
+     .section7{
+        margin-left: -70px;
+        display: block;
+     }
+
+     .bloglist{
+        width: 200px;
+     }
+
+     .section8{
+        width: 350px;
+        margin-left: -110px;
+        margin-top: 340px;
+     }
+     .priv{
+        display: block;
+        margin-left: 100px;
+     }
+
+     .section4a, .section5{
+        width: 100%;
+     }
+
 }
 
 @media screen and (max-width:767px) and (min-width:481px){
+
+    .hamburger{
+        display: block;
+     }
+
+     .nav, .ppr, .easymail, .search, .login{
+     display: none;
+     }
+
+     .section2{
+        margin-left:220px;
+        display: block;
+     }
+
+     .get, .lead{
+        margin-top: 90px;
+        width: 50px;
+        font-size: 29px;
+     }
+
+    .yellow{
+        top: 180px;
+        left: 40px;
+        width: 80px;
+        height: 30px;
+    }
+
+    .powerful{
+        margin-left: -80px;
+        font-size: 21px;
+        width: 230px;
+    }
+
+    #email{
+        margin-top: 99px;
+        display: block;
+        margin-left: -40px;
+        width: 200px;
+    }
+
+    .signup2{
+        margin-left: 0px;
+    }
+
+    .startforfree{
+        margin-left: -20px;
+    }
+
+    .start{
+        margin-left: 15px;
+    }
+
+    .nocredit{
+        margin-top: 40px;
+    }
+
+    .cancel{
+        margin-left: -350px;
+        margin-top: 70px;
+    }
+
+    .lady{
+        width: 350px;
+    }
+
+    .hr1,.hr2{
+        display: none;
+    }
+
+    .message{
+        width: 230px;
+        margin-left: -320px;
+        margin-top: 490px;
+    }
+
+    .markaut{
+        width: 230px;
+        margin-left: -320px;
+    }
+
+    .smsmark{
+        width: 230px;
+        margin-left: -320px;
+        margin-bottom: -590px;
+    }
+
+     .section2b{
+        margin-left: 200px;
+     }
+
+     .inbound, .persona{
+        font-size: 21px;
+        margin-left: 220px;
+       width: 250px;
+     }
+
+     .section3a{
+        display: block;
+     }
+
+     .section3bimg{
+        display: none;
+     }
+
+     .gets, .suite, .learn,.free{
+        margin-top: 70px;
+        width: 230px;
+        margin-left: 110px;
+        font-size: 23px;
+     }
+
+     #suiteb{
+        margin-left: 110px;
+     }
+
+     #engagew{
+        margin-left:100px
+     }
+
+     #boosto, #learnm, #over{
+        margin-left: 200px;
+     }
+
+     
+
+     #suited{
+        margin-left: 190px;
+     }
+     .yellow2a, .yellow2b, .yellow2c, .yellow2d{
+        display: none;
+     }
+
+     .section3b{
+        display: block;
+     }
+
+    .boost{
+        margin-left: -80px;
+     }
+
+     .grow{
+        margin-left: -5px;
+     }
+
+     .section4b{
+        display: block;
+     }
+
+     .section4b1{
+        margin-top: 40px;
+        margin-left: 180px;
+     }
+
+     .section4b2{
+        margin-top: 70px;
+        margin-left: 250px;
+     }
+
+     .section4b3{
+        margin-top: 70px;
+        margin-left: 230px;
+     }
+
+     .section4b4{
+        margin-top: 70px;
+        margin-left: 300px;
+     }
+
+     .more{
+         margin-top: 30px;
+        width: 290px;
+        margin-left: 250px;
+     }
+
+     .exp{
+        width: 190px;
+        margin-top: 30px;
+        margin-left: 260px;
+     }
+
+     .explore{
+        margin-left: -20px;
+     }
+
+     .unb{
+        font-size: 25px;
+        width: 250px;
+        margin-left: 210px;
+     }
+
+     .unbyellow, .yellow2{
+        display: none;
+     }
+
+
+
+     .section5b{
+        margin-left: 240px;
+        display: block;
+     }
+
+     .plans{
+        margin-top: 20px;
+        margin-left: 220px;
+        width: 230px;
+     }
+
+     #exp2{
+        margin-left: 210px;
+     }
+
+     .section6{
+        display: none;
+     }
+
+     .section7{
+        margin-left: 140px;
+        display: block;
+     }
+
+     .bloglist{
+        width: 200px;
+     }
+
+     .section8{
+        width: 350px;
+        margin-left: 90px;
+        margin-top: 340px;
+     }
+     .priv{
+        display: block;
+        margin-left: 150px;
+     }
+
+     .section4a, .section5{
+        width: 100%;
+     }
 
 }
 
 
 @media screen and (max-width:1023px) and (min-width:768px){
+
+    .easymail{
+        margin-left: 8px;
+    }
+
+    .ppr{
+        margin-left: -10px;
+    }
+
+    .product,.pricing,.resources{
+        margin-left: 20px;
+    }
+
+    .search{
+        margin-left: -120px;
+    }
+
+    #search{
+        width: 200px;
+    }
+
+    .login{
+        margin-right: 200px;
+    }
+
+    .section2{
+        display: flex;
+    }
+
+    .getlead1{
+        margin-left: 20px;
+        width: 700px;
+    }
+
+    .lady{
+        width: 270px;
+    }
+
+    .message,.markaut,.smsmark{
+        margin-left: -230px;
+      width: 200px;
+    }
+
+    .message{
+        margin-top: 100px;
+    }
+
+    .inbound,.persona{
+        margin-left: 230px;
+        width: 500px;
+    }
+
+    .yellow2{
+        margin-left: -280px;
+    }
+
+    .gets, .suite, .learn,.free{
+        margin-top: 70px;
+        width: 300px;
+        margin-left: 0px;
+        font-size: 23px;
+     }
+
+     #suiteb{
+        margin-left: 10px;
+     }
+
+     #engagew{
+        margin-left:00px
+     }
+
+     #boosto{
+        margin-left: 150px;
+     }
+
+     #learnm{
+        margin-left: 190px;
+     }
+
+     #over{
+        margin-left: 170px;
+     }
+
+     #suited{
+        margin-left: 190px;
+     }
+     .yellow2a, .yellow2b, .yellow2c, .yellow2d{
+        display: none;
+     }
+
+    .boost{
+        margin-left: -80px;
+     }
+
+     .grow{
+        margin-left: 70px;
+     }
+
+     .section3bimg{
+        top: 110px;
+     }
+     #trolley{
+        top: 110px;
+        margin-left: 190px;
+     }
+
+     .section4b{
+        margin-left: -70px
+     }
+
+     .section4b2{
+        margin-left: -40px;
+     }
+
+     .section4b3{
+
+        margin-left: -80px;
+     }
+     
+     .bluerec{
+        margin-left: 30px;
+        width: 180px;
+     }
+
+     .mar{
+        width: 200px;
+     }
+
+     
+
+     #entre{
+        margin-left: 100px;
+     }
+
+     #onl{
+        margin-left: 30px;
+     }
+
+     #entre2{
+        margin-left: 50px;
+     }
+
+     #large{
+        margin-left: -20px;
+     }
+
+
 
 }
 
